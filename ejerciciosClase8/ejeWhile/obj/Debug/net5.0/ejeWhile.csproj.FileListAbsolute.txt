@@ -1,0 +1,16 @@
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\bin\Debug\net5.0\ejeWhile.exe
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\bin\Debug\net5.0\ejeWhile.deps.json
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\bin\Debug\net5.0\ejeWhile.runtimeconfig.json
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\bin\Debug\net5.0\ejeWhile.runtimeconfig.dev.json
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\bin\Debug\net5.0\ejeWhile.dll
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\bin\Debug\net5.0\ref\ejeWhile.dll
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\bin\Debug\net5.0\ejeWhile.pdb
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\obj\Debug\net5.0\ejeWhile.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\obj\Debug\net5.0\ejeWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\obj\Debug\net5.0\ejeWhile.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\obj\Debug\net5.0\ejeWhile.AssemblyInfo.cs
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\obj\Debug\net5.0\ejeWhile.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\obj\Debug\net5.0\ejeWhile.dll
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\obj\Debug\net5.0\ref\ejeWhile.dll
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\obj\Debug\net5.0\ejeWhile.pdb
+C:\Users\MARTIN\Desktop\ejerciciosClase8\ejeWhile\obj\Debug\net5.0\ejeWhile.genruntimeconfig.cache
