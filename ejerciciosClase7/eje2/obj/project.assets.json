@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MARTIN\\.nuget\\packages\\": {}
+    "C:\\Users\\marti\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MARTIN\\Desktop\\ejerciciosClase7\\eje2\\eje2.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Documents\\ejerciciosClase4-7-8\\ejerciciosClase7\\eje2\\eje2.csproj",
       "projectName": "eje2",
-      "projectPath": "C:\\Users\\MARTIN\\Desktop\\ejerciciosClase7\\eje2\\eje2.csproj",
-      "packagesPath": "C:\\Users\\MARTIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MARTIN\\Desktop\\ejerciciosClase7\\eje2\\obj\\",
+      "projectPath": "C:\\Users\\marti\\Documents\\ejerciciosClase4-7-8\\ejerciciosClase7\\eje2\\eje2.csproj",
+      "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marti\\Documents\\ejerciciosClase4-7-8\\ejerciciosClase7\\eje2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MARTIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -32,28 +32,28 @@ namespace eje2
             {
                 case 1:
                 {
-                    montoAlicuota =montoCompra*0.14;
+                    montoAlicuota = montoCompra*0.14;
                     montoCompraConAlicuota = montoCompra + montoAlicuota;
                     sitFiscal_IVA = "Responsable Inscripto";
                 }break;
 
                 case 2:
                 {
-                    montoAlicuota =montoCompra*0.18;
+                    montoAlicuota = montoCompra*0.18;
                     montoCompraConAlicuota = montoCompra + montoAlicuota;
                     sitFiscal_IVA = "Responsable No Inscripto";
                 }break;
 
                 case 3:
                 {
-                    montoAlicuota =montoCompra*0.00;
+                    montoAlicuota = montoCompra*0.00;
                     montoCompraConAlicuota = montoCompra + montoAlicuota;
                     sitFiscal_IVA = "Exento";
                 }break;
 
                 case 4:
                 {
-                    montoAlicuota =montoCompra*0.21;
+                    montoAlicuota = montoCompra*0.21;
                     montoCompraConAlicuota = montoCompra + montoAlicuota;
                     sitFiscal_IVA = "Consumidor Final";
                 }break;
@@ -61,7 +61,7 @@ namespace eje2
 
                 default:
                 {
-                    montoAlicuota =montoCompra*0.21;
+                    montoAlicuota = montoCompra*0.21;
                     montoCompraConAlicuota = montoCompra + montoAlicuota;
                     sitFiscal_IVA = "Otra Situacion IVA";
                 }break;
@@ -76,7 +76,7 @@ namespace eje2
             Console.WriteLine("Monto total de compra con alicuota......$"+montoCompraConAlicuota);
             Console.WriteLine("..........................................................");
             Console.WriteLine("Presione N para continuar S para salir");
-            salir = char.Parse(Console.ReadLine());
+            //char salir = Convert.ToChar(Console.ReadLine());
 
         }
             
