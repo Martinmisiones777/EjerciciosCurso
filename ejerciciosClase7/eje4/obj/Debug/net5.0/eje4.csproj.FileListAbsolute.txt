@@ -1,0 +1,5 @@
+C:\Users\marti\Documents\ejerciciosClasesPracticas\ejerciciosClase7\eje4\obj\Debug\net5.0\eje4.csproj.AssemblyReference.cache
+C:\Users\marti\Documents\ejerciciosClasesPracticas\ejerciciosClase7\eje4\obj\Debug\net5.0\eje4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Documents\ejerciciosClasesPracticas\ejerciciosClase7\eje4\obj\Debug\net5.0\eje4.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\ejerciciosClasesPracticas\ejerciciosClase7\eje4\obj\Debug\net5.0\eje4.AssemblyInfo.cs
+C:\Users\marti\Documents\ejerciciosClasesPracticas\ejerciciosClase7\eje4\obj\Debug\net5.0\eje4.csproj.CoreCompileInputs.cache
