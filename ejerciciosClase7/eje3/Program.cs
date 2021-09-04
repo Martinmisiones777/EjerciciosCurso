@@ -43,8 +43,9 @@ namespace eje3
                 }break;
                 case 7:
                 {
-                    Console.WriteLine("DOMINGO")
+                    Console.WriteLine("DOMINGO");
                 }break;
+
                 default:
                     Console.WriteLine("numero incorrecto");
                     break;
